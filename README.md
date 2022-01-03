@@ -27,10 +27,9 @@ This project was built using these technologies.
 
 ## Features are:
 
-- Add item to todo list.
-- Edit your existing todo item.
-- Mark your todo item as done.
-- Delete your todo item from the list.
+- Added a Navbar.
+- Added Footer.
+- Animation.
 
 ### 🛠 Installation and Setup Instructions
 
