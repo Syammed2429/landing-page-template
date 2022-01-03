@@ -242,6 +242,9 @@ p {
   pointer-events: none;
 }
 
+/* Build by Dada Khalandar
+  git : https://github.com/kerrybli
+  */
 .preloader .loader .spinner .spinner-container {
   pointer-events: none;
   position: absolute;
