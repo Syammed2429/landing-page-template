@@ -1,6 +1,6 @@
 # Basic Landing Page
 
-It's a basic landing page.
+This open source project aims to provide a basic landing page.
 
 <h2 align="center">
   <a href="https://landing-page-template-three.vercel.app/" target="_blank">Basic Landing Page</a>
@@ -48,3 +48,7 @@ Open with your browser to see the result and change according to your configurat
 📌 Please feel free to contribute to this project with your commits, and share this with your friends if you like this projects.😁 😃
 
 Give a ⭐ if you like this website! Fork it and contribute
+
+# Can I contribute?
+
+Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a PR and I appreciate it.
